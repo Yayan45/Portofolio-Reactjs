@@ -44,7 +44,7 @@ const Contact = () => {
           <div className="flex flex-wrap">
             <div className="lg:w-1/2 w-full" data-aos="zoom-in-right">
               <img
-                src="public/img/contactUS.gif"
+                src="/img/contactUS.gif"
                 className="relative z-10 mx-auto rounded-md shadow-2xl dark:bg-dark dark:shadow-slate-500"
                 width="580"
                 alt="Contact"

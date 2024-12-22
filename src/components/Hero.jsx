@@ -91,7 +91,7 @@ const Hero = () => {
               </div>
 
               <a
-                href="public/img/MyCV.pdf"
+                href="/img/MyCV.pdf"
                 target="_blank"
                 className="rounded-full bg-hero py-2 px-8 text-base font-semibold text-white transition duration-300 ease-in-out hover:opacity-80 hover:shadow-lg"
               >
@@ -100,10 +100,7 @@ const Hero = () => {
             </div>
             <div className="w-full self-end px-4 lg:w-1/2">
               <div className="relative mt-10 lg:right-0 lg:mt-9">
-                <img
-                  src="/public/img/saya.png"
-                  className="relative z-10 mx-auto"
-                />
+                <img src="/img/saya.png" className="relative z-10 mx-auto" />
                 <span className="absolute bottom-0 left-1/2 -translate-x-1/2 md:scale-125">
                   <svg
                     className="animate__animated animate__infinite animate__tada animate__slower"
@@ -127,17 +124,17 @@ const Hero = () => {
               Tech Stack
             </h1>
             <div className="flex flex-wrap items-center justify-center p-4 max-w-md mx-auto md:max-w-4xl">
-              <img src="/public/img/html.png" className="w-20 md:w-40" />
+              <img src="/img/html.png" className="w-20 md:w-40" />
               <img
-                src="/public/img/css.png"
+                src="/img/css.png"
                 className="w-20 md:w-40 -ml-4 md:-ml-12"
               />
-              <img src="/public/img/js.png" className="w-12 md:w-24" />
+              <img src="/img/js.png" className="w-12 md:w-24" />
               <img
-                src="/public/img/tailwind.png"
+                src="/img/tailwind.png"
                 className="w-16 md:w-30 ml-2 md:ml-8"
               />
-              <img src="/public/img/react.png" className="w-20 md:w-40" />
+              <img src="/img/react.png" className="w-20 md:w-40" />
             </div>
           </div>
         </div>

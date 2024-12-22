@@ -15,7 +15,7 @@ const ReadMore = () => {
         title: "Complaints from the People of Pemalang District",
         description:
           "The Pemalang Regency Community Complaints Website is a digital platform that allows the public to report various incidents that occur in the area. Built using the programming languages PHP, JavaScript, HTML, CSS, and utilizing the responsive design advantages of Bootstrap, this site provides an effective means for monitoring and reporting important events.",
-        image: "/public/img/portfolio/pengaduan.png",
+        image: "/img/portfolio/pengaduan.png",
         technologi: "- HTML, - CSS, - JS, - PHP, - Bootstrap",
         features:
           " -User-friendly Interface, -Easy Reporting, -Efficient Monitoring, -Admin Dashboard",
@@ -26,7 +26,7 @@ const ReadMore = () => {
         title: "The Tank Museum",
         description:
           "The Tank Museum website, built according to the client's wishes, is a digital platform that provides a holistic experience regarding the history and technical specifications of tanks. Using HTML, CSS, JavaScript, and Bootstrap, the site allows visitors to explore an impressive collection of tanks with intuitive navigation.",
-        image: "/public/img/portfolio/1.png",
+        image: "/img/portfolio/1.png",
         technologi: "- HTML, - CSS, - JS, - Bootstrap",
         features:
           " -  User-friendly Interface, - Responsive Design, - Detailed Tank History, - Tank Specifications ",
@@ -37,7 +37,7 @@ const ReadMore = () => {
         title: "Cashier Application",
         description:
           "I created the cashier website when I took the LSP-P1 vocational exam. This website uses PHP, JavaScript, HTML, CSS, and the experience. With features such as sales management, inventory, transactions, customers, and user management, this website ensures operational efficiency and improves customer service.",
-        image: "/public/img/portfolio/resto.png",
+        image: "/img/portfolio/resto.png",
         technologi: " - HTML, - CSS, - JS, - PHP, - Bootstrap",
         features:
           " - Data Management, - Product Management, - Customer Management Inventory Management, - Responsive Design",
@@ -48,7 +48,7 @@ const ReadMore = () => {
         title: "Wedding App",
         description:
           "As the first step of my digital startup, I designed and launched an innovative digital invitation website. The platform offers an easy-to-use interface and advanced features to make creating and managing event invitations easy. This project reflects my commitment to innovation and quality in every project I work on.",
-        image: "/public/img/portfolio/weddingApp.png",
+        image: "/img/portfolio/weddingApp.png",
         technologi: " - HTML, - CSS, - JS, - Bootstrap",
         features:
           " - RSVP Management, - Gift Donation, - Guest List Management, - Event Timeline, - Event - Location, - Responsive Design, - Photo Gallery, - Interactive Features",
@@ -59,7 +59,7 @@ const ReadMore = () => {
         title: "Kost Management Website",
         description:
           "In this project, I developed a comprehensive web platform to streamline the management of boarding houses. The website offers various features to assist property owners in managing rooms, tenants, and finances. The room management feature allows owners to easily update the status of rooms. The tenant management feature helps owners register new tenants and monitor existing tenant data. Additionally, the platform provides detailed income reports and financial statements, allowing property owners to track their earnings, expenses, and other financial details. This project is designed to provide property owners with an efficient and organized way to manage the daily operations of their boarding houses.",
-        image: "/public/img/portfolio/kost.png",
+        image: "/img/portfolio/kost.png",
         technologi: " - HTML, - CSS, - JS, - Bootstrap",
         features:
           "- Room Management, - Tenant Registration and Profile Management, - Tenant Dashboard, - Admin Dashboard, - Income and Expense Tracking, - Financial Reports, - Easy Data Management",

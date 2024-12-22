@@ -6,12 +6,12 @@ const Gallery = () => {
   const [selectedImage, setSelectedImage] = useState(null);
 
   const images = [
-    { src: "/public/img/gallery/1.jpg" },
-    { src: "/public/img/gallery/2.jpeg" },
-    { src: "/public/img/gallery/4.jpg" },
-    { src: "/public/img/gallery/5.jpg" },
-    { src: "/public/img/gallery/6.jpg" },
-    { src: "/public/img/gallery/3.jpg" },
+    { src: "/img/gallery/1.jpg" },
+    { src: "/img/gallery/2.jpeg" },
+    { src: "/img/gallery/4.jpg" },
+    { src: "/img/gallery/5.jpg" },
+    { src: "/img/gallery/6.jpg" },
+    { src: "/img/gallery/3.jpg" },
   ];
 
   // Handle image click to open the modal
