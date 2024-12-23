@@ -4,7 +4,7 @@ Welcome to my **Portfolio Website**! This website showcases some of the projects
 
 ## Features
 
-- **Projects Showcase**: A collection of my projects, including descriptions and links to live demos or repositories.
+- **Projects Showcase**: A collection of my projects, including descriptions and repositories.
 - **Responsive Design**: Fully responsive website for an optimal viewing experience across devices.
 - **Interactive UI**: Smooth animations and modern design using Tailwind CSS.
 - **Dark Mode Support**: Toggle between light and dark themes.
@@ -29,12 +29,12 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
+   git clone https://github.com/Yayan45/portofolio-ReactJs.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd portfolio-website
+   cd portofolio-ReactJs
    ```
 
 3. Install dependencies:
@@ -53,28 +53,15 @@ Ensure you have the following installed:
 
 5. Open your browser and navigate to `http://localhost:3000`.
 
-## Project Structure
-
-```
-portfolio-website/
-├── public/
-├── src/
-│   ├── components/    # Reusable components (e.g., Navbar, Footer, ProjectCard)
-│   ├── pages/         # Pages for the website (e.g., Home, Projects, About)
-│   ├── App.js         # Main application component
-│   ├── index.js       # Entry point of the application
-│   ├── styles/        # Custom Tailwind CSS configurations
-├── package.json       # Project dependencies and scripts
-├── tailwind.config.js # Tailwind CSS configuration
-```
 
 ## Screenshots
 
 ### Home Page
-![Home Page Screenshot](screenshots/home.png)
+![Screenshot 2024-12-23 222500](https://github.com/user-attachments/assets/4046bde3-5eb5-4be3-8db2-3233684f080a)
 
 ### Projects Page
-![Projects Page Screenshot](screenshots/projects.png)
+![Screenshot 2024-12-23 222517](https://github.com/user-attachments/assets/c77c1dd3-ef7f-4a30-9e31-d107dd92485c)
+
 
 ## Customization
 
@@ -101,16 +88,7 @@ For example, to deploy on Vercel:
    vercel
    ```
 
-## Contributing
 
-Contributions are welcome! Feel free to open an issue or submit a pull request if you have suggestions or improvements.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Thank you for visiting my portfolio! If you have any questions or feedback, feel free to reach out to me.
+Thank you for visiting my portfolio! If you have any questions or feedback, feel free to reach out to me👋😊.
 
 
